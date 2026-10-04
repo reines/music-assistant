@@ -1,0 +1,11 @@
+{
+  "config_entries": {
+    "cookie": {
+      "label": "Login Cookie",
+      "description": "The cookie of a request to play.google.com from a browser that is signed in to Google Play Books, see the documentation."
+    }
+  },
+  "manifest": {
+    "description": "Listen to the audiobooks in your Google Play Books library."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "music",
+  "domain": "google_play_books",
+  "stage": "alpha",
+  "name": "Google Play Books",
+  "description": "Listen to the audiobooks in your Google Play Books library.",
+  "codeowners": ["@reines"],
+  "requirements": ["defusedxml==0.7.1"],
+  "documentation": "https://music-assistant.io/music-providers/google-play-books/",
+  "multi_instance": true
+}
